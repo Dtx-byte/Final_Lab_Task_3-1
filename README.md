@@ -45,3 +45,6 @@
 - Table Structure
 
 ![screenshot](Images/Task5_TableStruc.png)
+
+## [SQL Code](https://github.com/Dtx-byte/Final_Lab_Task_3-1/blob/main/Images/FLB_3-1.sql)
+![screenshot](Images/FLB_3-1Code.png)
